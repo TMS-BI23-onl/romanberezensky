@@ -1,0 +1,11 @@
+Well done!
+
+No negative comments, great job!
+
+4c
+In this task we don't need to pay attention to format of data. The code should be basic: 
+SELECT MIN(Weight) AS Min_weight, 
+		MAX(Size) AS Max_size
+FROM Production.Product
+
+Please, pay attention, that you haven't shared HW1 results
